@@ -1,0 +1,216 @@
+ Country_code, Country, WHO_region, New_cases, New_deaths
+ ,Other,Other,741,13
+AD,Andorra,EURO,897,52
+AE,United Arab Emirates,EMRO,58249,343
+AF,Afghanistan,EMRO,36036,1246
+AG,Antigua and Barbuda,AMRO,76,3
+AI,Anguilla,AMRO,3,0
+AL,Albania,EURO,4570,128
+AM,Armenia,EURO,36996,700
+AO,Angola,AFRO,880,35
+AR,Argentina,AMRO,148027,2722
+AT,Austria,EURO,20229,711
+AU,Australia,WPRO,13595,139
+AW,Aruba,AMRO,117,3
+AZ,Azerbaijan,EURO,29312,400
+BA,Bosnia and Herzegovina,EURO,9764,278
+BB,Barbados,AMRO,106,7
+BD,Bangladesh,SEARO,218658,2836
+BE,Belgium,EURO,65106,9817
+BF,Burkina Faso,AFRO,1075,53
+BG,Bulgaria,EURO,10123,337
+BH,Bahrain,EMRO,38458,136
+BI,Burundi,AFRO,345,1
+BJ,Benin,AFRO,1694,34
+BL,Saint Barthélemy,AMRO,6,0
+BM,Bermuda,AMRO,153,9
+BN,Brunei Darussalam,WPRO,141,3
+BO,Bolivia (Plurinational State of),AMRO,65252,2407
+BQ,"Bonaire, Sint Eustatius and Saba",AMRO,11,0
+BR,Brazil,AMRO,2287475,84082
+BS,Bahamas,AMRO,274,11
+BT,Bhutan,SEARO,92,0
+BW,Botswana,AFRO,686,1
+BY,Belarus,EURO,66846,524
+BZ,Belize,AMRO,47,2
+CA,Canada,AMRO,112672,8874
+CD,Democratic Republic of the Congo,AFRO,8625,196
+CF,Central African Republic,AFRO,4593,59
+CG,Congo,AFRO,3038,51
+CH,Switzerland,EURO,34067,1699
+CI,Côte d’Ivoire,AFRO,15253,94
+CL,Chile,AMRO,341304,8914
+CM,Cameroon,AFRO,16708,385
+CN,China,WPRO,86660,4657
+CO,Colombia,AMRO,226373,7688
+CR,Costa Rica,AMRO,13129,80
+CU,Cuba,AMRO,2469,87
+CV,Cabo Verde,AFRO,2220,22
+CW,Curaçao,AMRO,29,1
+CY,Cyprus,EURO,1047,19
+CZ,Czechia,EURO,15081,369
+DE,Germany,EURO,204964,9118
+DJ,Djibouti,EMRO,5039,58
+DK,Denmark,EURO,13438,613
+DM,Dominica,AMRO,18,0
+DO,Dominican Republic,AMRO,59077,1036
+DZ,Algeria,AFRO,26159,1136
+EC,Ecuador,AMRO,79049,5468
+EE,Estonia,EURO,2028,69
+EG,Egypt,EMRO,91072,4518
+ER,Eritrea,AFRO,261,0
+ES,Spain,EURO,272421,28432
+ET,Ethiopia,AFRO,12693,200
+FI,Finland,EURO,7380,329
+FJ,Fiji,WPRO,27,0
+FK,Falkland Islands (Malvinas),AMRO,13,0
+FO,Faroe Islands,EURO,191,0
+FR,France,EURO,169222,30078
+GA,Gabon,AFRO,6984,49
+GB,The United Kingdom,EURO,297918,45677
+GD,Grenada,AMRO,23,0
+GE,Georgia,EURO,1117,16
+GF,French Guiana,AMRO,7251,41
+GG,Guernsey,EURO,252,13
+GH,Ghana,AFRO,31057,161
+GI,Gibraltar,EURO,184,0
+GL,Greenland,EURO,13,0
+GM,Gambia,AFRO,170,5
+GN,Guinea,AFRO,6867,42
+GP,Guadeloupe,AMRO,203,14
+GQ,Equatorial Guinea,AFRO,2350,41
+GR,Greece,EURO,4135,201
+GT,Guatemala,AMRO,43283,1669
+GU,Guam,WPRO,329,5
+GW,Guinea-Bissau,AFRO,1954,26
+GY,Guyana,AMRO,351,19
+HN,Honduras,AMRO,36902,1011
+HR,Croatia,EURO,4715,128
+HT,Haiti,AMRO,7197,154
+HU,Hungary,EURO,4424,596
+ID,Indonesia,SEARO,95418,4665
+IE,Ireland,EURO,25845,1763
+IL,Israel,EURO,54369,427
+IM,Isle of Man,EURO,336,24
+IN,India,SEARO,1336861,31358
+IQ,Iraq,EMRO,104711,4212
+IR,Iran (Islamic Republic of),EMRO,286523,15289
+IS,Iceland,EURO,1843,10
+IT,Italy,EURO,245590,35097
+JE,Jersey,EURO,331,31
+JM,Jamaica,AMRO,821,10
+JO,Jordan,EMRO,1302,11
+JP,Japan,WPRO,28786,993
+KE,Kenya,AFRO,16268,274
+KG,Kyrgyzstan,EURO,31247,1249
+KH,Cambodia,WPRO,202,0
+KM,Comoros,AFRO,340,7
+KN,Saint Kitts and Nevis,AMRO,17,0
+KR,Republic of Korea,WPRO,14092,298
+KW,Kuwait,EMRO,62625,425
+KY,Cayman Islands,AMRO,203,1
+KZ,Kazakhstan,EURO,80226,585
+LA,Lao People's Democratic Republic,WPRO,20,0
+LB,Lebanon,EMRO,3407,46
+LC,Saint Lucia,AMRO,24,0
+LI,Liechtenstein,EURO,87,1
+LK,Sri Lanka,SEARO,2764,11
+LR,Liberia,AFRO,1135,71
+LS,Lesotho,AFRO,419,9
+LT,Lithuania,EURO,1986,80
+LU,Luxembourg,EURO,6056,112
+LV,Latvia,EURO,1205,31
+LY,Libya,EMRO,2425,57
+MA,Morocco,EMRO,18834,299
+MC,Monaco,EURO,99,1
+MD,Republic of Moldova,EURO,22483,726
+ME,Montenegro,EURO,2569,40
+MF,Saint Martin,AMRO,46,3
+MG,Madagascar,AFRO,8741,76
+MK,North Macedonia,EURO,9797,451
+ML,Mali,AFRO,2503,123
+MM,Myanmar,SEARO,346,6
+MN,Mongolia,WPRO,288,0
+MP,Northern Mariana Islands (Commonwealth of the),WPRO,38,2
+MQ,Martinique,AMRO,269,15
+MR,Mauritania,AFRO,6116,156
+MS,Montserrat,AMRO,12,1
+MT,Malta,EURO,686,9
+MU,Mauritius,AFRO,344,10
+MV,Maldives,SEARO,3175,15
+MW,Malawi,AFRO,3454,87
+MX,Mexico,AMRO,370712,41908
+MY,Malaysia,WPRO,8861,123
+MZ,Mozambique,AFRO,1590,11
+NC,New Caledonia,WPRO,22,0
+NE,Niger,AFRO,1124,69
+NG,Nigeria,AFRO,39539,845
+NI,Nicaragua,AMRO,3004,108
+NL,Netherlands,EURO,52595,6139
+NO,Norway,EURO,9085,255
+NP,Nepal,SEARO,18374,44
+NZ,New Zealand,WPRO,1206,22
+OM,Oman,EMRO,73791,359
+PA,Panama,AMRO,56817,1209
+PE,Peru,AMRO,371096,17654
+PF,French Polynesia,WPRO,62,0
+PG,Papua New Guinea,WPRO,32,0
+PH,Philippines,WPRO,76444,1879
+PK,Pakistan,EMRO,271887,5787
+PL,Poland,EURO,42038,1655
+PM,Saint Pierre and Miquelon,AMRO,4,0
+PR,Puerto Rico,AMRO,13967,191
+PS,"occupied Palestinian territory, including east Jerusalem",EMRO,12412,73
+PT,Portugal,EURO,49692,1712
+PY,Paraguay,AMRO,4113,36
+QA,Qatar,EMRO,108638,164
+RE,Réunion,AFRO,654,3
+RO,Romania,EURO,42394,2150
+RS,Serbia,EURO,22852,518
+RU,Russian Federation,EURO,806720,13192
+RW,Rwanda,AFRO,1729,5
+SA,Saudi Arabia,EMRO,262772,2672
+SC,Seychelles,AFRO,107,0
+SD,Sudan,EMRO,11302,715
+SE,Sweden,EURO,78997,5697
+SG,Singapore,WPRO,49375,27
+SI,Slovenia,EURO,2052,115
+SK,Slovakia,EURO,2118,28
+SL,Sierra Leone,AFRO,1765,66
+SM,San Marino,EURO,716,42
+SN,Senegal,AFRO,9422,182
+SO,Somalia,EMRO,3171,93
+SR,Suriname,AMRO,1234,23
+SS,South Sudan,AFRO,2258,45
+ST,Sao Tome and Principe,AFRO,860,14
+SV,El Salvador,AMRO,13792,379
+SX,Sint Maarten,AMRO,94,15
+SY,Syrian Arab Republic,EMRO,608,35
+SZ,Eswatini,AFRO,2073,28
+TC,Turks and Caicos Islands,AMRO,90,2
+TD,Chad,AFRO,915,75
+TG,Togo,AFRO,839,17
+TH,Thailand,SEARO,3282,58
+TJ,Tajikistan,EURO,7104,58
+TL,Timor-Leste,SEARO,24,0
+TN,Tunisia,EMRO,1425,50
+TR,Turkey,EURO,224252,5580
+TT,Trinidad and Tobago,AMRO,142,8
+TZ,United Republic of Tanzania,AFRO,509,21
+UA,Ukraine,EURO,63929,1590
+UG,Uganda,AFRO,1089,1
+US,United States of America,AMRO,4009808,143663
+UY,Uruguay,AMRO,1141,34
+UZ,Uzbekistan,EURO,19653,104
+VA,Holy See,EURO,12,0
+VC,Saint Vincent and the Grenadines,AMRO,52,0
+VE,Venezuela (Bolivarian Republic of),AMRO,13613,129
+VG,British Virgin Islands,AMRO,8,1
+VI,United States Virgin Islands,AMRO,342,7
+VN,Viet Nam,WPRO,415,0
+XK,Kosovo[1],EURO,6637,154
+YE,Yemen,EMRO,1678,462
+YT,Mayotte,AFRO,2873,38
+ZA,South Africa,AFRO,421996,6343
+ZM,Zambia,AFRO,3853,134
+ZW,Zimbabwe,AFRO,2296,32

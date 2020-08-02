@@ -1,0 +1,181 @@
+* {
+
+}
+
+/*html { 
+    zoom: 0.8; 
+}*/
+
+body {
+	background-color: #fafafa;
+	font-family: Lato, Helvetica Neue, Arial;
+}
+
+div.container, div.chart, div#info_box, div.story {
+	box-shadow: 0 0 2px 0 rgba(0,0,0,.1),0 2px 2px 0 rgba(0,0,0,.25);
+}
+
+.story {
+	position: absolute;
+	display: block;
+	width: 800px;
+  	margin: 0 auto;
+  	margin-top: 850px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+.story p {
+	text-align: justify;
+	font-size: 1.2em;
+}
+
+.chart {
+	background-color: white !important;
+}
+
+svg {
+  //background-color: #efefef;
+  border: 1px solid grey;
+}
+
+.slides {
+	text-align: center;
+	margin: 30px;
+	position: relative;
+	display: none; //block
+}
+
+#slide_2 path {
+  //stroke: #505050;
+  //stroke-width: 1px;
+  fill: none;
+}
+
+#dd_btn {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -50px;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 99;
+}
+
+#info_box {
+	position: absolute;
+	width: 190px;
+	//border: 1px solid grey;
+	margin-left: 150px;
+	margin-top: 50px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+div.container {
+	text-align: center;
+}
+
+#slide_2 svg>text {
+	font-size: 0.9em;
+}
+
+#clabel {
+	color: darkblue !important;;	
+}
+
+#dlabel {
+	color: darkred !important;;	
+}
+
+table {
+	text-align: left;	
+}
+
+.chart {
+	width: 1400px;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+
+#dd_btn_s3-1 {
+	display: inline;
+	float:right;
+}
+
+#dd_btn_s3-2 {
+	display: inline;
+	float:right;
+}
+
+.circle-selected {
+	stroke: lightgrey;
+  	stroke-width: 3px;	
+}
+
+#cinfo {
+  padding: 5px;
+  position: absolute;
+  text-align: center;
+  background: black;
+  color: white;
+  opacity: 0;
+  padding: 3px;
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+////
+
+.selected {
+  stroke-width: 5;
+  stroke: red;
+}
+
+#info {
+  padding: 5px;
+  position: absolute;
+  background: black;
+  color: white;
+  opacity: 0;
+  border-radius: 3px;
+}
+
+#map {  
+  text-align: center;
+}
+
+.caption {  
+  text-align: center;
+  font-size: 1em;
+  color: #505050;
+  font-weight: bold;
+}
+
+#dropdown, #dd_btn_s2, #dd_btn_s3-2, #dd_btn_s3-1 {
+  text-align: right;
+}
+
+#lines {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#lines path {
+  //stroke: #505050;
+  stroke-width: 1px;
+  fill: none;
+}
+
+#slide_1 g.hidden line,
+#slide_1 g.hidden path {
+  display: none;
+}

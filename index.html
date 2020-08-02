@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Narrative Visualization</title> 
+  <meta charset="utf-8">
+  <meta name="author" content="Aleksandr Stepenko">
+  <meta name="description" content="Final Project: Narrative Visualization, CS-498">
+  <meta name ="viewport" content = "width=device-width, initial-scale = 1.2;"/>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+  <script src="http://d3js.org/d3.v5.min.js"></script>
+  <script src="http://unpkg.com/topojson@3"></script>
+
+  <script src="http://d3js.org/d3.v5.min.js"></script>
+  <script src="http://unpkg.com/topojson@3"></script>
+
+  <link rel="stylesheet" href="css/main.css">
+  <script src="js/main.js"></script>
+
+  <!-- PLEASE USE FIREFOX 79 -->
+  <!-- it's recommended to set zoom level to 80% -->
+</head>
+<body>
+
+<div class="container">
+  <h2><span>Coronovirus Disease(COVID-19)</span></h2>
+  <ul class="nav nav-tabs justify-content-center"> <!-- nav-pills -->
+    <li class="nav-item">
+      <a class="nav-link active" href="#" index=1><span>Global situation &#9655</span></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#" index=2><span>Disease dynamics &#9655</span></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#" index=3>Country index &#9634</a>
+    </li>
+  </ul>
+</div>
+
+<div class="slides" id="slide_1">
+  <div id="info" class="tooltip"></div>
+  <div class="chart" id="map">
+    <div id="dropdown"></div>
+    <svg width="1400" height="800"></svg>
+  </div>
+  <div class="story"></div>
+</div>
+<div class="slides" id="slide_2">
+  <div class="chart">
+    <div id="info_box"></div>
+    <svg width="1400" height="800"></svg>
+  </div>
+  <div class="story"></div>
+</div>
+<div class="slides" id="slide_3">
+  <div id="cinfo" class="tooltip"></div>
+  <div class="chart">    
+    <svg width="1400" height="800"></svg>
+  </div>
+  <div class="story"></div>
+</div>
+
+</body>
+</html>
