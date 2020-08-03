@@ -490,7 +490,7 @@ function add_text() {
 	</p>
 	<p>
 	<span style="font-style: italic;font-size: 0.8em">
-	This slide shows detailed information on the dynamics of the number of cases and deaths in the world or in a particular country. The countries are ordered by the total number of cases. Detailed information about the total number of new cases and deaths on particular day appears when chart area is being hovered over.
+	This scene shows detailed information on the dynamics of the number of cases and deaths in the world or in a particular country. The countries are ordered by the total number of cases. Detailed information about the total number of new cases and deaths on particular day appears when chart area is being hovered over.
 	</span>
 	</p>
 	`

@@ -437,7 +437,7 @@ function add_text() {
 	</p>
 	<p>
 	<span style="font-style: italic;font-size: 0.8em">
-	This slide shows the situation with coronavirus on a global scale in terms of the total number of cases and deaths. Detailed information is provided by hovering over a specific country. The countries might be filtered out according to a range of cases/deaths by hovering over the color map. The drop-down menu in the upper right corner allows to switch the view(cases/deaths).
+	This scene shows the situation with coronavirus on a global scale in terms of the total number of cases and deaths. Detailed information is provided by hovering over a specific country. The countries might be filtered out according to a range of cases/deaths by hovering over the color map. The drop-down menu in the upper right corner allows to switch the view(cases/deaths).
 	</span>
 	</p>
 	`

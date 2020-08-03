@@ -407,7 +407,7 @@ function add_text() {
 	</p>
 	<p>
 	<span style="font-style: italic;font-size: 0.8em">
-	This slide displays the countries of the world in terms of the number of cases and deaths per 1 million people. There are two dropdown menus in the upper right corner. The first one allows to filter displayed countries, the second one changes the scale from the linear to the logarithmic one. Additional information is provided by hovering over a specific country. For better visual experience, you can use the <b>ZOOM IN/OUT</b> function(by scrolling the mouse wheel) and <b>PANNING</b> function(by holding down the left mouse button and dragging the mouse).
+	This scene shows the countries of the world in terms of the number of cases and deaths per 1 million people. There are two dropdown menus in the upper right corner. The first one allows to filter displayed countries, the second one changes the scale from the linear to the logarithmic one. Additional information is provided by hovering over a specific country. For better visual experience, you can use the <b>ZOOM IN/OUT</b> function(by scrolling the mouse wheel) and <b>PANNING</b> function(by holding down the left mouse button and dragging the mouse).
 	</span>
 	</p>
 	`
